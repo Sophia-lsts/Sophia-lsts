@@ -11,7 +11,4 @@ Atualmente, estou no meu 1º semestre do curso de Sistemas de Informação pela 
 
 ##
 
-<div align-"center">
-<img src="![download20240300122520](download20240300122520.png)" width="200" />
-</div>
 
