@@ -9,3 +9,5 @@
 
 Atualmente, estou no meu 1º semestre do curso de Sistemas de Informação pela Univerdade do Estado da Bahia. Sou iniciante no estudo das linguagens de Python, pelo Curso de Capacitação oferecido pelo Tomorrow da UFBA, e iniciante também em C, de maneira autônoma, com ajuda de conteúdos on-line e utilizando a plataforma do Exercism, a qual as minhas resoluções de exercícios serão postadas aqui. 
 
+
+
