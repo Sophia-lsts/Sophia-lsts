@@ -7,7 +7,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=sophia-lsts&show_icons=true&theme=dark) ![Sophia-lsts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sophia-lsts&theme=dark&hide_border=false)
 
 
-Atualmente, estou no meu 1º semestre do curso de Sistemas de Informação pela Univerdade do Estado da Bahia. Sou iniciante no estudo das linguagens de Python, pelo Curso de Capacitação oferecido pelo Tomorrow da UFBA, e iniciante também em C, de maneira autônoma, com ajuda de conteúdos on-line. Utilizo as plataforma do Exercism, Codeacademy e Beecrowd, os quais as resoluções de exercícios serão postadas aqui.
+Atualmente, estou no meu 1º semestre do curso de Sistemas de Informação pela Univerdade do Estado da Bahia. Sou iniciante no estudo das linguagens de Python, pelo Curso de Capacitação oferecido pelo Tomorrow da UFBA, e iniciante também em C, de maneira autônoma, com ajuda de conteúdos on-line. Utilizo as plataforma do Exercism, Codeacademy e Beecrowd, para praticar e é possível ver meu perfil neles clicando nos cards que estão dispostos acima.
 
 ##
 
