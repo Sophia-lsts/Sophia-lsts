@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Sophia Lima 😊
 
+![gib study](https://github.com/Sophia-lsts/Sophia-lsts/assets/164697061/077479d9-61e1-4812-8f02-decacba9d06a)
+
 
 ![IDE](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Education](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white) ![Education](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) 
 
