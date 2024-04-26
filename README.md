@@ -1,17 +1,39 @@
-### Olá! Eu sou a Sophia Lima 😊
+### <h1 align="center"> Olá! Eu sou a Sophia Lima 😊 </h1>
 
 ![7heR4-ezgif com-resize (2)](https://github.com/Sophia-lsts/Sophia-lsts/assets/164697061/7c8e05fd-823c-4e50-8b2a-684bed5e2997)
 
+<p align="center">
+Sou estudante de Graduação em Sistemas de Informação na Universidade do Estado da Bahia (UNEB), iniciante no estudo das linguagens Python e C. 
+</p>
 
-![IDE](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Education](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white) ![Education](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) 
-
+<p align="center">
+Você pode acessar meus repositórios com conteúdos de cursos que faço para aprimorar meus conhecimentos e estudos.
+</p>
+  
 ##
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sophia-lsts&show_icons=true&theme=dark) ![Sophia-lsts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sophia-lsts&theme=dark&hide_border=false)
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophia-lsts&theme=tokyonight&hide_border=false" alt="Github stats">
+</p>
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Sophia-lsts&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)">
+</p>
 
-Atualmente, estou no meu 1º semestre do curso de Sistemas de Informação pela Univerdade do Estado da Bahia. Sou iniciante no estudo das linguagens de Python, pelo Curso de Capacitação oferecido pelo Tomorrow da UFBA, e iniciante também em C, de maneira autônoma, com ajuda de conteúdos on-line. Utilizo as plataforma do Exercism, Codeacademy e Beecrowd, para praticar e é possível ver meu perfil neles clicando nos cards que estão dispostos acima.
+### <p align="center"> Estudando </p>
 
-##
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" > 
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
+    <img src="https://img.shields.io/badge/W3Schools-01A9DB?style=for-the-badge&logo=w3schools&logoColor=white" >
+</p>
 
+### <p align="center"> Algumas ferramentas que utilizo </p>
+
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" >
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" >
+</p>
 
