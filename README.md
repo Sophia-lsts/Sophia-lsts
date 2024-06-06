@@ -1,4 +1,4 @@
-### <h1 align="center"> Olá! Eu sou Sophia Lima 😊 </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=3000&pause=2000&color=FFFFFF&background=3E2483&center=true&vCenter=true&random=false&width=1080&height=100&lines=Ol%C3%A1!+;Sou+Sophia+Lima%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ![7heR4-ezgif com-resize (2)](https://github.com/Sophia-lsts/Sophia-lsts/assets/164697061/7c8e05fd-823c-4e50-8b2a-684bed5e2997)
 
